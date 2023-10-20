@@ -17,6 +17,8 @@ const App: FC = () => {
 		dispatch(initUserData())
 	}, [dispatch])
 
+		// some comment
+
 	if (!isInitialized) {
 		return (
 			<ToggleFeatures
