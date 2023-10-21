@@ -18,6 +18,7 @@ const App: FC = () => {
 	}, [dispatch])
 
 		// some comment
+		// some comment
 
 	if (!isInitialized) {
 		return (
