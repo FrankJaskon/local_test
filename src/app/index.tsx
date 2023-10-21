@@ -19,6 +19,7 @@ const App: FC = () => {
 
 		// some comment
 		// some comment
+		// some comment
 
 	if (!isInitialized) {
 		return (
